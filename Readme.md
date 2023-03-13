@@ -1,4 +1,8 @@
-#Build container
+
+# GO-docker-simple
+This repo is meant to be use as a simple way to deploy the simpliest go app.
+
+## Build container
 
 docker build . -t go-docker-simple
 
